@@ -1,23 +1,40 @@
-## Hi there 👋
+## Hi there, I'm Ana 👋
 
-#### 👩‍💻 Data Scientist and ML Researcher
+### 👩‍💻 Data Scientist & ML Researcher
 
 #### 🚀 About Me
 Hello, I'm Ana, a Biomedical Engineer with a PhD in Health Sciences and more than 5 years of experience in 
 applying machine learning models to physiological data, from the preprocessing (data cleaning, feature extraction) to the fine-tuning of models. I am capable to identify, understand and translate project requirements into advanced technical solutions. I am eager to learn new AI skills that may have an impact in people’s lives. I love science, technology and sports! 
 
-#### 🛠️ Technical Skills
-- Programming Languages: Python (pandas, numpy, scikit-learn, tensorflow), SQL, R, Javascript, C++, JAVA, HTML
+<p>
+  <a href="https://www.linkedin.com/in/anacoelho6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ana Coelho-blue?style=flat-square&logo=linkedin"></a>
+</p>
 
-- Cloud: AWS (S3)
 
-- DS & ML: Data preprocessing (data cleaning, feature extraction), Clustering, Dimensionality reduction, Classification, Neural Networks, Statistical Analysis, Medical image processing, Time-series analysis
+#### 💡 Skills
+⚡️ Data preprocessing (data cleaning and feature extraction) of different types of data: images, time-series, tabular.<br>
+<br>
+⚡️ Application of different machine learning algorithms: clustering (k-means, self-organizing maps, hierarchical clustering), dimensionality reduction (PCA), classification (random forest, LSTMs).<br>
+<br>
+⚡️ Use of different data collection tools: APIs, web scraping.<br>
+<br>
+⚡️ Development of interactive web apps from Python scripts using Streamlit.<br>
+
+#### 🛠️ Tools | Frameworks
+Data Preprocessing: Pandas, NumPy<br>
+Machine Learning Implementation Framework: Scikit-Learn, Tensorflow<br>
+Development: Python, SQL, R, Javascript, Git<br>
+Data Visualization: Plotly<br>
+Web scraping: Selenium, Beautiful Soup <br>
+Cloud Services: AWS (S3)<br>
+Integrated Development Environment: Jupyter-Notebook, VS Code<br>
+
 
 <!-- - (TODO) web scrapping, APIs, streamlit -->
   
 #### 💼 Professional Opportunities
 
-I am looking for ...
+I am looking for opportunities that challenge me and keep me in a state of continuous learning.
 
 <hr/>
 
