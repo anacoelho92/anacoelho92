@@ -21,8 +21,6 @@ I am looking for ...
 
 <hr/>
 
-#### 💻 Technologies
-
 <p align='center'>
   <img width="345px" height="150" src="https://github-readme-stats.vercel.app/api?username=anacoelho92&show_icons=true&theme=dark&rank_icon=github&count_private=true"/>
   <img width="250px" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacoelho92&layout=compact&langs_count=6&theme=dark"/>
