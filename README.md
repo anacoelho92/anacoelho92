@@ -6,11 +6,6 @@
 Hello, I'm Ana, a Biomedical Engineer with a PhD in Health Sciences and more than 5 years of experience in 
 applying machine learning models to physiological data, from the preprocessing (data cleaning, feature extraction) to the fine-tuning of models. I am capable to identify, understand and translate project requirements into advanced technical solutions. I am eager to learn new AI skills that may have an impact in people’s lives. I love science, technology and sports! 
 
-<p>
-  <a href="https://www.linkedin.com/in/anacoelho6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ana Coelho-blue?style=flat-square&logo=linkedin"></a>
-</p>
-
-
 #### 💡 Skills
 ⚡️ Data preprocessing (data cleaning and feature extraction) of different types of data: images, time-series, tabular.<br>
 <br>
@@ -35,6 +30,10 @@ Integrated Development Environment: Jupyter-Notebook, VS Code<br>
 #### 💼 Professional Opportunities
 
 I am looking for opportunities that challenge me and keep me in a state of continuous learning.
+
+<p>
+  <a href="https://www.linkedin.com/in/anacoelho6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ana Coelho-blue?style=flat-square&logo=linkedin"></a>
+</p>
 
 <hr/>
 
